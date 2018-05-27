@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\k9\\k9\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\k9\\k9\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\k9\\k9\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\k9\\k9\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\k9\\k9\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info_take_photo.xml",
+        "source": "C:\\k9\\k9\\starterprojects\\android\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\xml\\widget_info_take_photo.xml"
+    }
+]
